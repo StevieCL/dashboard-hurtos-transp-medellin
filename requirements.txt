@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+folium
+dash
+dashlabs
+dash_bootstrap_components

@@ -1,0 +1,10 @@
+.menu {
+    height: 300px;
+    width: 1500px;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 24px;
+    margin: -10px auto 0 auto;
+    background-color: #FFFFFF;
+    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.18);
+}
